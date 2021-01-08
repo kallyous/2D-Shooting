@@ -1,6 +1,14 @@
-# 2D Shooting
-Project files for our tutorial on 2D Shooting in Unity.
+# 2D Character Shooting
 
-The asset pack used for the environment is Warped Caves which you can download [here](https://www.assetstore.unity3d.com/#!/content/103250?aid=1101lPGj).
+Projeto de referência para tiros com prefab ou raycast em 2D no Unity.
+Usando versão do Unity 2019.4.17f1 LTS .
 
-Check out our [YouTube Channel](http://youtube.com/brackeys) for more tutorials.
+O tipo de tiro ativo no projeto é raycast. O prefab do projétil está salvo para referência.
+
+Repositório do projeto original: https://github.com/Brackeys/2D-Shooting
+
+Gráficos do projeto feitos com o pacote de assets [Warped Caves](https://www.assetstore.unity3d.com/#!/content/103250?aid=1101lPGj).
+
+[Playlist dos Tutoriais](https://www.youtube.com/watch?v=on9nwbZngyw&list=PLPV2KyIb3jR6TFcFuzI2bB7TMNIIBpKMQ)
+
+Canal do Instrutor: [Brackeys](http://youtube.com/brackeys)
